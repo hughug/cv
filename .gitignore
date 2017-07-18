@@ -1,9 +1,12 @@
 *.aux
 *.log
 *.out
-*.bib
+*.bbl
 *.rel
 *.blg
 *.gz
-
+*.fdb_latexmk
+*.fls
+*.bib
 *.pdf
+.DS_Store
