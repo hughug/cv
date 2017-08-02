@@ -10,3 +10,4 @@
 *.bib
 *.pdf
 .DS_Store
+*.dvi
