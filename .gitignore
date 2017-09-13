@@ -11,3 +11,5 @@
 *.pdf
 .DS_Store
 *.dvi
+\#*\#
+.#BaoyiChen.tex
